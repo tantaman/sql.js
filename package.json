@@ -35,10 +35,10 @@
   "homepage": "http://github.com/sql-js/sql.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/sql-js/sql.js.git"
+    "url": "http://github.com/tantaman/sql.js.git"
   },
   "bugs": {
-    "url": "https://github.com/sql-js/sql.js/issues"
+    "url": "https://github.com/tantaman/sql.js/issues"
   },
   "devDependencies": {
     "clean-jsdoc-theme": "^3.3.4",
